@@ -1,5 +1,5 @@
 # Asus-GL753VD-Hackintosh
-Clover config and files for installing Hackintosh on ASUS GL753VD notebook (tested on ASUS GL753VD-GC256T)
+Clover config and files for installing Hackintosh on ASUS GL753VD notebook (tested on ASUS FX753VD-GC256T (aka GL753VD))
 
 Based on https://github.com/MohammadtaghiFarkhondekar/macOS-For-Asus-ROG-GL553VD
 
