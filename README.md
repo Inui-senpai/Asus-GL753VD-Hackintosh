@@ -17,10 +17,12 @@ Based on https://github.com/MohammadtaghiFarkhondekar/macOS-For-Asus-ROG-GL553VD
 * Card Reader
 * Sound (not works if restarted from Windows)
 * Storages (SSD 128 GB+HDD 1 TB)
+* Shutdown (without BIOS resetting)
 
 # Not works:
 * Wi-Fi (but it's a matter of time)
 * Discrete video (NVIDIA GeForce GTX 1050)
 * Keyboard lighting setting (cannot decompile my own firmware files because of "AE_ALREADY_EXIST" error)
+* Sleep (will never works on integrated video)
 
 Tested on macOS 10.14.5 Mojave (but this may also works on newer versions of macOS)
