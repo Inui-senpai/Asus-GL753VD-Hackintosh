@@ -5,7 +5,7 @@ Based on https://github.com/MohammadtaghiFarkhondekar/macOS-For-Asus-ROG-GL553VD
 
 # Works:
 * Boot
-* Graphics (Intel HD Graphics 630)
+* Graphics acceleration (Intel HD Graphics 630)
 * Battery
 * USB 2.0/3.0 Ports (except one USB 3.0 port on the right side)
 * DVD RW Drive
@@ -22,7 +22,13 @@ Based on https://github.com/MohammadtaghiFarkhondekar/macOS-For-Asus-ROG-GL553VD
 # Not works:
 * Wi-Fi (but it's a matter of time)
 * Discrete video (NVIDIA GeForce GTX 1050)
-* Keyboard lighting setting (cannot compile my own firmware files with necessary fixes because of "AE_ALREADY_EXIST" error)
+* Keyboard lighting setting (I tried to compile my own firmware files according to https://github.com/hieplpvip/AsusSMC/wiki/Installation-Instruction, but I got an "AE_ALREADY_EXIST" error)
 * Sleep (will never works on integrated video)
+
+# Not tested:
+* HDMI connecting
+* miniDisplayPort connecting
+* USB-C connecting
+* 3,5mm jack connecting
 
 Tested on macOS 10.14.5 Mojave (but this may also works on newer versions of macOS)
