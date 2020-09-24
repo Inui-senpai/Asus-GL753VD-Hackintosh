@@ -37,5 +37,6 @@ Based on https://github.com/MohammadtaghiFarkhondekar/macOS-For-Asus-ROG-GL553VD
 # Notes:
 * Sound from 3,5mm jack sounds too distorted, headphones are better connect through an external sound card.
 * Sometimes graphic artifacts may appear, but it also happens on Windows 10 too.
+* Airplane Mode indicator will always turned on regardless of current Airplane Mode state on real system (seems like ACPI bug)
 
 Tested on macOS 10.15.6 Catalina. I do not guarantee that my config will works on macOS 11.0 Big Sur, at least at this moment of time.
